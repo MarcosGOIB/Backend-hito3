@@ -43,7 +43,11 @@
    ```
 
 ### 7. Probar el proyecto
-1. Puedes ejecutar pruebas con:
+1. inicia el servidor con:
+   ```sh
+   nodemon server.js
+   ```
+2. Puedes ejecutar pruebas con:
    ```sh
    npm test
    ```
