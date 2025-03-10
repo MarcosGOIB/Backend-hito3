@@ -43,7 +43,7 @@
    ```
 
 ### 7. Probar el proyecto
-1. inicia el servidor con:
+1. vuelve a tu terminal e inicia el servidor con:
    ```sh
    nodemon server.js
    ```
